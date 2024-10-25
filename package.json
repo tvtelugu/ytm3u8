@@ -1,0 +1,10 @@
+{
+  "name": "my-php-app",
+  "version": "1.0.0",
+  "description": "A simple PHP application deployed on Vercel",
+  "scripts": {
+    "start": "php -S localhost:3000 -t ."
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
